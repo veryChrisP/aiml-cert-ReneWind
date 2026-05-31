@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-ReneWind/blob/main/CPeralta%20Intro%20to%20Neural%20Networks%20Project%204%20(Full%20Code).ipynb)
 
-# Project Prompt
+# Project Prompt: Intro to Neural Networks
 
 Renewable energy sources play an increasingly important role in the global energy mix, as the effort to reduce the environmental impact of energy production increases.
 
