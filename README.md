@@ -1,12 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-ReneWind/blob/main/CPeralta%20Intro%20to%20Neural%20Networks%20Project%204%20(Full%20Code).ipynb)
 
+# Project Prompt
 
-
-
-
-Project prompt:
-
-Context
 Renewable energy sources play an increasingly important role in the global energy mix, as the effort to reduce the environmental impact of energy production increases.
 
 Out of all the renewable energy alternatives, wind energy is one of the most developed technologies worldwide. The U.S Department of Energy has put together a guide to achieving operational efficiency using predictive maintenance practices.
